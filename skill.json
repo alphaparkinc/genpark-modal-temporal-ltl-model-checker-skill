@@ -1,0 +1,15 @@
+{
+  "name": "genpark-modal-temporal-ltl-model-checker-skill",
+  "version": "1.0.0",
+  "description": "Linear Temporal Logic (LTL) symbolic model checker for finite state graphs.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "ltl",
+    "model-checking",
+    "temporal-logic",
+    "formal-methods",
+    "agentic-ai"
+  ]
+}
